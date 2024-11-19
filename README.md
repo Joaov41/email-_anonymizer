@@ -22,7 +22,7 @@ Customizable Redaction: manually redact sensitive information by selecting text
 
 ![CleanShot 2024-11-19 at 17 57 10@2x](https://github.com/user-attachments/assets/07551bdd-b853-4898-8425-345f8ac63a86)
 
-Redacted works or entire sentences will be added to a database, so that if those expressions show up on a a different email, they will show as automatically redacted. 
+Redacted words or entire sentences will be added to a database, so that if those expressions show up on a a different email, they will show as automatically redacted. 
 
 Summary provided by the LLM, as well as engage in Q&A about the emails. All the content sent to the LLM is redacted. 
 Multilingual Support: Supports English and Portuguese text processing so far.
