@@ -10,7 +10,19 @@ Drag-and-Drop Email Processing: Drop .eml files directly into the app for extrac
 
 
 Entity Recognition: Identify automatically some entities such as people, locations, and organizations.
-Customizable Redaction: manually redact sensitive information by selecting text
+
+
+![CleanShot 2024-11-19 at 17 52 37@2x](https://github.com/user-attachments/assets/91bc7ca5-98a1-41dd-ac07-10f4d7a9ac8c)
+
+
+
+Customizable Redaction: manually redact sensitive information by selecting text 
+
+![CleanShot 2024-11-19 at 17 56 03@2x](https://github.com/user-attachments/assets/0bb0808b-d94c-43a8-8f96-e1255ef9e5c0)
+
+![CleanShot 2024-11-19 at 17 57 10@2x](https://github.com/user-attachments/assets/07551bdd-b853-4898-8425-345f8ac63a86)
+
+
 SUmmary provided by the LLM, as well as engage in Q&A about the emails.
 Multilingual Support: Supports English and Portuguese text processing so far.
 Deanonymization: Restore redacted entities when needed using a redaction database.
