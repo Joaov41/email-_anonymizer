@@ -23,5 +23,7 @@ python -m spacy download en_core_web_md
 
 python -m spacy download pt_core_news_md ( do not download if use in PT is not intended) 
 
+Add open ai key on the app.py file
+
 python app.py  
 
