@@ -22,10 +22,13 @@ Customizable Redaction: manually redact sensitive information by selecting text
 
 ![CleanShot 2024-11-19 at 17 57 10@2x](https://github.com/user-attachments/assets/07551bdd-b853-4898-8425-345f8ac63a86)
 
+Redacted works or entire sentences will be added to a database, so that if those expressions show up on a a different email, they will show as automatically redacted. 
 
-SUmmary provided by the LLM, as well as engage in Q&A about the emails.
+Summary provided by the LLM, as well as engage in Q&A about the emails. All the content sent to the LLM is redacted. 
 Multilingual Support: Supports English and Portuguese text processing so far.
 Deanonymization: Restore redacted entities when needed using a redaction database.
+If an email is heavily redacted, it can be difficult to understand the output from the LLM with so much redacted.
+In that case, just paste the output in the Deanonymizer parte and it will show the content cleaned, which the LLM never had acess to.   
 
 	
 Prerequisites: Python 3.8 or later
