@@ -4,6 +4,11 @@ Uses GPT4-o mini to summarize and engage in Q&A with the LLM about the redacted 
 
 Features:
 Drag-and-Drop Email Processing: Drop .eml files directly into the app for extraction and processing.
+
+![CleanShot 2024-11-19 at 17 48 59@2x](https://github.com/user-attachments/assets/f794f4c8-1bd1-472f-849e-af73c72af72f)
+
+
+
 Entity Recognition: Identify automatically some entities such as people, locations, and organizations.
 Customizable Redaction: manually redact sensitive information by selecting text
 SUmmary provided by the LLM, as well as engage in Q&A about the emails.
